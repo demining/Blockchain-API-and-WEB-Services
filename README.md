@@ -20,7 +20,7 @@
 
 
 <div class="wp-block-image">
-<figure class="aligncenter size-full is-resized"><a href="https://dzen.ru/video/watch/6617ad848b9fc93b9ba699c7"><img decoding="async" width="867" height="500" src="./Blockchain integration_ API and web services capabilities for secure Bitcoin transactions - CRYPTO DEEP TECH_files/image-7.png" alt="Blockchain integration: API and web services capabilities for secure Bitcoin transactions" class="wp-image-2761" style="width:534px;height:auto" srcset="https://cryptodeeptech.ru/wp-content/uploads/2024/04/image-7.png 867w, https://cryptodeeptech.ru/wp-content/uploads/2024/04/image-7-300x173.png 300w, https://cryptodeeptech.ru/wp-content/uploads/2024/04/image-7-768x443.png 768w" sizes="(max-width: 867px) 100vw, 867px"></a></figure></div>
+<figure class="aligncenter size-full is-resized"><a href="https://dzen.ru/video/watch/6617ad848b9fc93b9ba699c7"><img decoding="async" width="867" height="500" src="./Blockchain integration_ API and web services capabilities for secure Bitcoin transactions - CRYPTO DEEP TECH_files/image-7.png" alt="Blockchain integration: API and web services capabilities for secure Bitcoin transactions" class="wp-image-2761" style="width:867px;height:auto" srcset="https://cryptodeeptech.ru/wp-content/uploads/2024/04/image-7.png 867w, https://cryptodeeptech.ru/wp-content/uploads/2024/04/image-7-300x173.png 500w, https://cryptodeeptech.ru/wp-content/uploads/2024/04/image-7-768x443.png 768w" sizes="(max-width: 867px) 100vw, 867px"></a></figure></div>
 
 
 <p class="has-text-align-center"><strong><a href="https://dzen.ru/video/watch/6617ad848b9fc93b9ba699c7" target="_blank" rel="noreferrer noopener">https://dzen.ru/video/watch/6617ad848b9fc93b9ba699c7</a></strong></p>
