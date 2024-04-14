@@ -26,6 +26,12 @@
 <p class="has-text-align-center"><strong><a href="https://dzen.ru/video/watch/6617ad848b9fc93b9ba699c7" target="_blank" rel="noreferrer noopener">https://dzen.ru/video/watch/6617ad848b9fc93b9ba699c7</a></strong></p>
 
 
+---
+
+* Tutorial: https://cryptodeeptech.ru/blockchain-api-and-web-services
+* Google Colab: [https://colab.research.google.com/drive/19Phx62sS0XpLGtzjFFLIqkvjfTGtq2db](https://colab.research.google.com/drive/19Phx62sS0XpLGtzjFFLIqkvjfTGtq2db)
+
+---
 
 <p>The article will provide an overview of key platforms that support blockchain APIs and examples of successful cases demonstrating the effectiveness of their use in various industries. Particular attention will be paid to issues of data security and confidentiality when working with blockchain networks through APIs and web services.</p>
 
